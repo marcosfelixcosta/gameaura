@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Aura",
+			"Path": "C:\\Users\\Marcos Felix\\Documents\\Unreal Projects\\GameplayAbilitySystem\\Source\\Aura.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AuraEditor",
+			"Path": "C:\\Users\\Marcos Felix\\Documents\\Unreal Projects\\GameplayAbilitySystem\\Source\\AuraEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

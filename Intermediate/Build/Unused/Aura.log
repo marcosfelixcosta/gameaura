@@ -1,0 +1,5 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\Marcos Felix\AppData\Local\UnrealBuildTool\Log.txt
+  Creating makefile for AuraEditor (no existing makefile)
+UnrealBuildTool : error : Unable to find plugin 'ModelViewViewModel' (referenced via Aura.uproject). Install it and try again, or remove it from the required plugin list.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MakeFile.Targets(44,5): error MSB3073: The command "C:\UE-5.0\UE_5.0\Engine\Build\BatchFiles\Build.bat AuraEditor Win64 Development -Project="C:\Users\Marcos Felix\Documents\Unreal Projects\GameplayAbilitySystem\Aura.uproject" -WaitMutex -FromMsBuild" exited with code 6.

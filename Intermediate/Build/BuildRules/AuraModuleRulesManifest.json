@@ -1,0 +1,15 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Marcos Felix\\Documents\\Unreal Projects\\GameplayAbilitySystem\\Source\\Aura\\Aura.Build.cs",
+		"C:\\Users\\Marcos Felix\\Documents\\Unreal Projects\\GameplayAbilitySystem\\Plugins\\Developer\\RiderLink\\Source\\RD\\RD.Build.cs",
+		"C:\\Users\\Marcos Felix\\Documents\\Unreal Projects\\GameplayAbilitySystem\\Plugins\\Developer\\RiderLink\\Source\\RiderBlueprint\\RiderBlueprint.Build.cs",
+		"C:\\Users\\Marcos Felix\\Documents\\Unreal Projects\\GameplayAbilitySystem\\Plugins\\Developer\\RiderLink\\Source\\RiderGameControl\\RiderGameControl.Build.cs",
+		"C:\\Users\\Marcos Felix\\Documents\\Unreal Projects\\GameplayAbilitySystem\\Plugins\\Developer\\RiderLink\\Source\\RiderLC\\RiderLC.Build.cs",
+		"C:\\Users\\Marcos Felix\\Documents\\Unreal Projects\\GameplayAbilitySystem\\Plugins\\Developer\\RiderLink\\Source\\RiderLink\\RiderLink.Build.cs",
+		"C:\\Users\\Marcos Felix\\Documents\\Unreal Projects\\GameplayAbilitySystem\\Plugins\\Developer\\RiderLink\\Source\\RiderLogging\\RiderLogging.Build.cs",
+		"C:\\Users\\Marcos Felix\\Documents\\Unreal Projects\\GameplayAbilitySystem\\Plugins\\Developer\\RiderLink\\Source\\RiderShaderInfo\\RiderShaderInfo.Build.cs",
+		"C:\\Users\\Marcos Felix\\Documents\\Unreal Projects\\GameplayAbilitySystem\\Source\\Aura.Target.cs",
+		"C:\\Users\\Marcos Felix\\Documents\\Unreal Projects\\GameplayAbilitySystem\\Source\\AuraEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
