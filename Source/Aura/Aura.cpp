@@ -2,6 +2,6 @@
 
 #include "Aura.h"
 #include "Modules/ModuleManager.h"
-#include "magicnext"
+#include "Magicnext"
 
 IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, Aura, "Aura" );
